@@ -2,6 +2,7 @@
 title: Test creado desde Netlify CMS
 date: 2021-08-08T03:36:48.375Z
 description: Breve descripción para mi Blog genial creado desde Netlify
+keywords: test, basic, probando, keywords
 ---
 ## Basic Structure
 
